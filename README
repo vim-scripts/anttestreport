@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1121
+
+My plugin tries to color  Test reports created by ant  the following way :
+It colors all good things in green and bad things in red or some kind of. Also It shadows meaningless things. 
+And yet I tried to fold long stack traces. So take a look. Comments are welcome.
